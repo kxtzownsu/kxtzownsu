@@ -2,18 +2,26 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,css,html,bash,kotlin" />
+    <img src="https://skillicons.dev/icons?i=py,js,css,html,bash,kotlin,react,cpp," />
   </a>
 </p>
 <br>
 <h1 align="center">Tools I Use</h2>
 <br>
 <p align="center">
+  <a href="https://github.com/kxtzownsu">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow,linux,flask" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,linux,flask,cloudflare,docker,markdown" />
+  </a>
+  <a href="https://discord.com/users/952792525637312552">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,docker,markdown" />
   </a>
 </p>
-<br>
 
 <h1 align="center">My GitHub Stats</h2>
 <p align="center">
