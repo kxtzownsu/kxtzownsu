@@ -1,8 +1,8 @@
-<h1 align="center">Languages I Use</h2>
+<h1 align="center">Languages I Use (some not on GitHub repos)</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,css,html,bash,kotlin,react,c" />
+    <img src="https://skillicons.dev/icons?i=py,js,css,html,bash,react,c" />
   </a>
 </p>
 <br>
