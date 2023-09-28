@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,linux,flask,cloudflare,docker,markdown" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,linux,flask" />
   </a>
   <a href="https://discord.com/users/952792525637312552">
     <img src="https://skillicons.dev/icons?i=discord" />
