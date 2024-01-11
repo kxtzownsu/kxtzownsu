@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://kxtz.dev/kat.png"  />
+<img align="right" height="150" src="https://images.weserv.nl/?url=https://kxtz.dev/kat.png?v=4&h=150&w=150&fit=cover&mask=circle"  />
 
 ###
 
