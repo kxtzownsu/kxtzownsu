@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://kxtz.dev/kxtz.png"  />
+<img align="right" height="150" src="https://kxtz.dev/kat.png"  />
 
 ###
 
