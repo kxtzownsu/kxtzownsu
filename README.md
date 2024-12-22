@@ -24,7 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"/>
   <img width="12" />
-  <!-- ty @Fallenmoon808 for telling me about this -->
+  <!--   ty @Fallenmoon808 for telling me about this -->
+  
   [![Discord Presence](https://lanyard.cnrad.dev/api/952792525637312552?bg=1e1e2e&theme=dark&idleMessage=being%20bored%2C%20check%20out%20https%3A%2F%2Fkxtz.dev&showDisplayName=false&hideDecoration=true)](https://discord.com/users/952792525637312552)
 
   
