@@ -2,7 +2,7 @@
 >Any statements or comments made by me do not reflect any companies or organization I work with/for unless otherwise stated directly.
 
 ## About Me
-I’m a low-level embedded programer & systems/software engineer. I mainly use Rust, C, Python & Bash. I can also write in JavaScript (e.g: React/Preact) and use markup languages like HTML, CSS and Markdown.
+I’m a low-level embedded programmer & systems/software engineer. I mainly use Rust, C, Python & Bash. I can also write in JavaScript (e.g: React/Preact) and use markup languages like HTML, CSS and Markdown.
 
 ## Projects
 - [libcros](https://github.com/kxtzownsu/libcros) - A Rust library that provides easy-to-use functions for interacting with a Chrome device
